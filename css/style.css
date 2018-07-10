@@ -269,3 +269,17 @@ img::-moz-selection {
 .row {
   margin-top:40px;
 }
+
+div.desc{
+    background-color: #000;
+    bottom: 0;
+    color: #fff;
+    opacity: 0.5;
+    position: absolute;
+    width: 100%;
+}
+
+.fix{
+    width: 100%;
+    padding: 0px;
+}
